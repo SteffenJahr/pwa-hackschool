@@ -1,0 +1,22 @@
+{
+  "name": "pwa-hackschool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteffenJahr/service-worker-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteffenJahr/service-worker-demo/issues"
+  },
+  "homepage": "https://github.com/SteffenJahr/service-worker-demo#readme",
+  "devDependencies": {
+    "http-server": "0.9.0"
+  }
+}
